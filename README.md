@@ -1,6 +1,6 @@
 # ML-DL-learning
 
-This repository contains my pet projects in the field of machine learning.
+This repository contains my simple pet projects in the field of classic machine learning and deep learning.
 
 ## Projects
 
