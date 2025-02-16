@@ -4,6 +4,8 @@ This repository contains my simple pet projects in the field of classic machine 
 
 ## Projects
 
+1. **wine_quality**
+
 ## Usage
 Each project folder contains Jupyter notebooks showcasing data analysis, feature engineering, model building, and evaluation.
 
