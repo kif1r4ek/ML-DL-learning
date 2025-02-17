@@ -28,9 +28,8 @@ This repository contains a data analysis project aimed at found the best model f
       - Random Forest Classifier
       - Cat Boost Regressor
       - Cat Boost Classifier
-      - Support Vector Classifier
 
 ## Results
 
-The Cat Boost Classifier achieved the highest accuracy of 44%. 
+The Random Forest Classifier achieved the highest accuracy of 44%. 
     
