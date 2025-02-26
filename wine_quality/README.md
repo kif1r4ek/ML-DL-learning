@@ -22,11 +22,9 @@ This repository contains a data analysis project aimed at found the best model f
 3. **Models Training**
    - Split the data into training and testing sets.
    - Train several machine learning models:
-      - Linear Regression
+      - Logistic Regression
       - Decision Tree Classifier
-      - Random Forest Regressor
       - Random Forest Classifier
-      - Cat Boost Regressor
       - Cat Boost Classifier
 
 ## Results
